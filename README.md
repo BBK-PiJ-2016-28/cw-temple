@@ -21,7 +21,6 @@ However, I have left in printouts and tests to show my logic as I coded both met
 LIMITATIONS
 1. I was unable to use the GUI and have relied entirely on the TXTmain.java class to code this coursework. I believe this 
 has added a layer of difficulty as I was unable to picture the maze and thus spent a great deal of time creating outputs,
-reading these and, when necessary, drawing the graph and its nodes. I tired to fix with problem with Keith, but I was unable to 
-solve the issue and relied solely on printing out to the console.
+reading these and, when necessary, drawing the graph and its nodes. I tired to fix this problem with Keith, but I was unable to solve the issue and relied solely on printing out to the console. However, to that end it works.
 
 2. I have declared some unused data structures in the escape method. 
